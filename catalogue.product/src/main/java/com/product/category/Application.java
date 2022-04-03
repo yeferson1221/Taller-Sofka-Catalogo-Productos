@@ -1,13 +1,13 @@
-package com.productos.categoria;
+package com.product.category;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CatalogoProductosSpringbootApplication {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CatalogoProductosSpringbootApplication.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 
 }

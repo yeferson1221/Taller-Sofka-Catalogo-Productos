@@ -1,10 +1,10 @@
-package com.productos.categoria;
+package com.product.category;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class CatalogoProductosSpringbootApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
